@@ -6,4 +6,4 @@ Let's build a comprehensive mental health app! We'll dive deep into Flutter's ca
 
 
 
-![thumbnail (3)]()
+![thumbnail (3)](https://github.com/Danedie04/mentalhealthapp/blob/main/assets/mentalhealthapp.png)
